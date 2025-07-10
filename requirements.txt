@@ -1,5 +1,2 @@
 streamlit
-pandas
 requests
-konlpy
-JPype1
